@@ -11,6 +11,8 @@ and how color information is stored and manipulated at the binary level.
 It was exciting to visualize the effects of my algorithms on the input images. 
 Additionally, I became more comfortable using the command line and executing tasks with Bash commands.
 
+## Photo Editor Methods
+
 I implemented 15 image manipulation methods that the user can call on an input image of their choosing 
 from the CLI (command-line interface):
 
