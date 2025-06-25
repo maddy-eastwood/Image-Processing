@@ -18,6 +18,7 @@ examples/
 *.a
 *.lib
 *.iml
+project2.out
 
 # CMake files
 CMakeCache.txt
