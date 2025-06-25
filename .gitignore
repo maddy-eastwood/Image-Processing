@@ -1,0 +1,36 @@
+# CLion project files
+.idea/
+cmake-build-*/
+
+# image files for project
+eastwood.madeleine.project2.zip
+input/
+output/
+examples/
+
+# Build artifacts and executables
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.iml
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+
+# Other common exclusions
+*.log
+*.swp
+*~
+.#*
+
+# macOS system files
+.DS_Store
