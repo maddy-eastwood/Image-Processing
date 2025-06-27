@@ -8,9 +8,9 @@ int main(int argc, char* argv[])
 {
     // 1. Check if user asked for help
     if (argc == 1 || (argc == 2 && (strcmp(argv[1], "--help") == 0))) {
-        cout << "Project 2: Image Processing, Fall 2024" << endl;
+        cout << "Image Processing Photo Editor" << endl;
         cout << endl;
-        cout << "Usage:\n" << "\t" << "./project2.out [output] [firstImage] [method] [...]" << endl;
+        cout << "Usage:\n" << "\t" << "./photoeditor.out [output] [firstImage] [method] [...]" << endl;
         return 0;
     }
 
