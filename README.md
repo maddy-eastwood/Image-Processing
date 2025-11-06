@@ -2,8 +2,6 @@
 
 **By: Madeleine Eastwood**
 
-**Video Demo:** coming soon
-
 **About:** The goal of this project was to practice reading, manipulating, and writing
 binary image files (.tga) in C++, while gaining hands-on experience with image processing algorithms.
 Through this project, I developed a deeper understanding of how computers represent the world we live in using pixels
